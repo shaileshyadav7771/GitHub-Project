@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Project1" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/branching_project" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/fast_forwatd_test" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/git_stash_deleting" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/master_merge" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/merge_without_conflict" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/partialstash" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/project10-b" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/project12_gitignore" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/project4" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/project5" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/project6" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/project7" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/project9" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/rebasing" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/stashing" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/testing" vcs="Git" />
+  </component>
+</project>
